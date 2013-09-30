@@ -35,7 +35,9 @@ Digital Light Sensor BH1750
   
   26/9/2013
   
-  for more information , contact me on my email
+  for more information : http://www.instructables.com/id/BH1750-Digital-Light-Sensor/
+  
+  contact me on my email
   
   genotronex@gmail.com
  */
