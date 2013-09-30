@@ -16,6 +16,11 @@ Digital Light Sensor BH1750
   addr >> A3
   Gnd >>>Gnd
 
+
+
+  please after download this library , rename it to BH1750FVI and put it in the libraries folder in the arduino path , then restart Arduino IDE
+  
+  
   Written By : Mohannad Rawashdeh
   
   26/9/2013
