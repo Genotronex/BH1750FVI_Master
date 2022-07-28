@@ -37,7 +37,7 @@ void setup() {   // put your setup code here, to run once:
  */
   LightSensor.SetAddress(Device_Address_H);//Address 0x5C
  // To adjust the slave on other address , uncomment this line
- // lightMeter.SetAddress(Device_Address_L); //Address 0x5C
+ // LightSensor.SetAddress(Device_Address_L); //Address 0x5C
  //-----------------------------------------------
   /*
    set the Working Mode for this sensor 
